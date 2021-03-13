@@ -1,0 +1,20 @@
+This is an *unofficial mirror* of Org, a plain text notes and project
+planning tool for Emacs.
+
+Please check the [[https://orgmode.org][homepage of Org]] and the [[https://code.orgmode.org/bzg/org-mode][upstream]]. As an unofficial
+mirror, issues and pull requests are going to be ignored be
+open. Please see [[https://orgmode.org/contribute.html][Org's contribute page]] if you want to help the
+project.
+
+* About this mirror
+This mirror exists for the sole purpose of easier upstream code
+navigation. While the upstream repository is readable, the Gogs
+installation misses some quality of life features like code search.
+
+The mirror does not get updated on a schedule yet.
+
+* License
+
+Org-mode is published under [[https://www.gnu.org/licenses/gpl-3.0.html][the GNU GPLv3 license]] or any later
+version, the same as GNU Emacs.  See the COPYING file in this
+directory.
